@@ -1,0 +1,15 @@
+h3 {
+    color: orange;
+    font-weight : bold;
+    text-decoration: underline;
+}
+
+.name {
+    font-style:italic;
+}
+
+#wrapper {
+    border : 1px solid black;
+    margin: 20px;
+    padding:20px;
+}
